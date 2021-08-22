@@ -1,0 +1,16 @@
+/* section image  */
+.body-image img{
+    width:550px;
+    height:450px;
+}
+/* set storage button style */
+.btn-storage button{
+    margin:2px;
+}
+
+
+/* set table style */
+.table {
+    font-size: 18px;
+    font-weight: bold;
+}
